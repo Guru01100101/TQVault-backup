@@ -403,7 +403,7 @@
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistElemental_01.dbr",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_02.dbr",
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
@@ -559,6 +559,21 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 6,
+          "pointY": 5
+        },
+        {
+          "stackSize": 1,
+          "seed": 22348,
+          "baseName": "records\\xpack2\\item\\relics\\01_act5_eponashorses.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\01\\01_HermesSandal_Protection.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 5
         },
         {
@@ -748,7 +763,7 @@
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\02\\01_HermesSandal_ResistPoison.dbr",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Relics\\BonusesGreece\\02\\01_HermesSandal_ResistLightning.dbr",
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
@@ -1018,7 +1033,7 @@
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_StunResist_02.dbr",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\AnimalRelics\\Bonuses\\Defensive_LifeResist_02.dbr",
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
@@ -2089,21 +2104,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 5,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
-          "seed": 22348,
-          "baseName": "records\\xpack2\\item\\relics\\01_act5_eponashorses.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\xpack\\item\\lootmagicalaffixes\\prefix\\default\\rare_petbonus_%speedhealth_01.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
           "pointY": 5
         }
       ]
