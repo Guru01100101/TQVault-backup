@@ -623,6 +623,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 11787,
+          "baseName": "Records\\XPack\\Item\\Artifacts\\N_GA_EyeOfTheHeavens.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 8
+        },
+        {
+          "stackSize": 1,
           "seed": 15846,
           "baseName": "Records\\XPack\\Item\\Artifacts\\N_GA_ShadowVeil.dbr",
           "prefixName": "",
@@ -1340,21 +1355,6 @@
           "var2": 2035248,
           "pointX": 10,
           "pointY": 14
-        },
-        {
-          "stackSize": 1,
-          "seed": 11787,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\N_GA_EyeOfTheHeavens.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_ReducedAttackSpeed_01.dbr",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 8
         }
       ]
     },

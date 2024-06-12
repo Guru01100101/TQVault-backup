@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -80,21 +80,6 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 3619,
-          "baseName": "Records\\Item\\EquipmentGreaves\\Um_E_LoratianGreaves.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 8
         }
       ]
     },
