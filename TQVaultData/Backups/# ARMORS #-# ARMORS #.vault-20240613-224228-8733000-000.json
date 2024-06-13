@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 3,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -3218,6 +3218,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 4110,
+          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Um_N_002.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 16,
+          "pointY": 14
+        },
+        {
+          "stackSize": 1,
           "seed": 4714,
           "baseName": "Records\\Item\\EquipmentHelm\\Um_N_CrownoftheElements.dbr",
           "prefixName": "",
@@ -3455,21 +3470,6 @@
           "var2": 2035248,
           "pointX": 14,
           "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 4110,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\Um_N_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
-          "pointY": 14
         }
       ]
     },

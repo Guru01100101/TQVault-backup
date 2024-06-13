@@ -92,7 +92,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": -1073077696,
           "pointX": 13,
           "pointY": 6
         },
@@ -107,7 +107,7 @@
           "var1": 3,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": -1073077696,
           "pointX": 12,
           "pointY": 6
         },
@@ -122,7 +122,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 710482960,
           "pointX": 8,
           "pointY": 4
         },
@@ -137,54 +137,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 710482960,
           "pointX": 11,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 23223,
-          "baseName": "records/xpack2/quests/objects/items/z_theprimrose.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1109393408,
-          "pointX": 17,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 29581,
-          "baseName": "records/xpack/quests/objects/items/z_theoverlord.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1109393408,
-          "pointX": 16,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 14974,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Helm\\um_n_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": -1388845312,
-          "pointX": 11,
-          "pointY": 8
         }
       ]
     },
